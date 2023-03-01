@@ -1,3 +1,7 @@
+#Посилання на скріншоти 
+https://roman-prokopov.imgbb.com/
+
+
 # Отримуємо і виводимо весь список контактів у вигляді таблиці (console.table)
 
 node index.js --action="list"
