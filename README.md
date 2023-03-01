@@ -1,5 +1,5 @@
 #Посилання на скріншоти 
-https://roman-prokopov.imgbb.com/
+https://ibb.co/album/zXMtXJ
 
 
 # Отримуємо і виводимо весь список контактів у вигляді таблиці (console.table)
